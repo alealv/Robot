@@ -1,0 +1,20 @@
+{
+  "motors": [
+    {
+      "name": "motor1",
+      "freq": 1000,
+      "nSpeed": 1000,
+      "gear": 10,
+      "wheel": 10,
+      "controller": "PID"
+    },
+    {
+      "name": "motor2",
+      "freq": 1000,
+      "nSpeed": 1000,
+      "gear": 10,
+      "wheel": 10,
+      "controller": "PID"
+    }
+  ]
+}
